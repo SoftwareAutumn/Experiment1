@@ -1,5 +1,7 @@
 ![1538359057639](http://t1.aixinxi.net/o_1comlbo5t1ofu1iu1e4buhqe0ma.png-j.jpg)
 
+![](http://t1.aixinxi.net/o_1coo6f3v813fpt041maq1m0f13gma.png-j.jpg)
+
 解决方法：在项目属性->C/C++->语言->符合模式项选否即可。
 
 
