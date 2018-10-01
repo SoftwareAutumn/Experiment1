@@ -1,4 +1,4 @@
-# demo1![1538359057639](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\1538359057639.png)
+![1538359057639](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\1538359057639.png)
 
 解决方法：在项目属性->C/C++->语言->符合模式项选否即可。
 
