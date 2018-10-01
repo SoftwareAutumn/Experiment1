@@ -1,4 +1,4 @@
-![](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\1538359057639.png)
+![](http://t1.aixinxi.net/o_1comlbo5t1ofu1iu1e4buhqe0ma.png-w.jpg)
 
 解决方法：在项目属性->C/C++->语言->符合模式项选否即可。
 
